@@ -19,6 +19,7 @@ These template engines work "out-of-the-box" with Express:
 - **[Squirrelly](https://github.com/squirrellyjs/squirrelly)**: Blazing-fast template engine that supports partials, helpers, custom tags, filters, and caching. Not white-space sensitive, works with any language.
 - **[Eta](https://github.com/eta-dev/eta)**: Super-fast lightweight embedded JS template engine. Supports custom delimiters, async, whitespace control, partials, caching, plugins.
 - **[React](https://github.com/reactjs/express-react-views)**: Renders React components on the server. It renders static markup and does not support mounting those views on the client.
+- **[express-engine-jsx](https://github.com/redexp/express-engine-jsx)**: Full featured template engine with React JSX markup.
 - **[h4e](https://github.com/louischatriot/h4e)**: Adapter for Hogan.js, with support for partials and layouts.
 - **[hulk-hogan](https://github.com/quangv/hulk-hogan)**: Adapter for Twitter's Hogan.js (Mustache syntax), with support for Partials.
 - **[combyne.js](https://github.com/tbranyen/combyne)**: A template engine that hopefully works the way you'd expect.
